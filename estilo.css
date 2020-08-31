@@ -1,0 +1,14 @@
+.sesiones{
+	width: 100%;
+	padding: 5%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: stretch;
+	align-content: space-around;
+}
+
+.hijos {
+	margin: 12px;
+}
